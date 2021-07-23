@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/60684172/126816107-b0a1fbff-ca24-414f-9cc5-ac353b550a3a.mp4
+the sound in the video is not of good quality due to reduction in file size.
+
 # Unity-Combat-System-Ternary-games
 I created this project with Unity(used both playmaker and c#). This contains a RPG project with a Advanced Player Character and enemy ai and also a companinon tiger ai.
 
@@ -23,7 +28,10 @@ I created this project with Unity(used both playmaker and c#). This contains a R
 >characters can be changed
 >You can also add your own touches to the enemy and player character 
 
-
+5.
+# Sound Effects
+1. NCS background music is included
+2. Character and enemy effort sounds are included too.
 
 # Note:
 1.Use the animations, character models, day night cycle for preview only. 
@@ -33,3 +41,7 @@ Change them while publishing your own game
 
 # Bug fixes:
 1. There are some bugs in the game which you have to fix yourself as I will not update this project.
+
+# Developers:
+Programmer:Rudra Ojha(https://www.instagram.com/ternary.games/)or(https://www.instagram.com/ternary_games/)or email: neonudrafloy@gmail.com
+Sound effects:Sujan Mandi(https://www.instagram.com/_.lonewolf._.photography._/)
