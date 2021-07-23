@@ -43,5 +43,5 @@ Change them while publishing your own game
 1. There are some bugs in the game which you have to fix yourself as I will not update this project.
 
 # Developers:
-Programmer:Rudra Ojha(https://www.instagram.com/ternary.games/)or(https://www.instagram.com/ternary_games/)or email: neonudrafloy@gmail.com
-Sound effects:Sujan Mandi(https://www.instagram.com/_.lonewolf._.photography._/)
+Programmer:Rudra Ojha( https://www.instagram.com/ternary.games/ )or( https://www.instagram.com/ternary_games/ )or email: neonudrafloy@gmail.com
+Sound effects:Sujan Mandi( https://www.instagram.com/_.lonewolf._.photography._/ )
