@@ -21,9 +21,9 @@ Link1:https://mega.nz/file/mRsy2Q6b#R9GN6YKE0z_Nd8fM3WSBtBIzlY5NKheiTAyayy4tM9o 
 >basic tiger cub ai that follows player (uses unity's navigation system)
 
 # 4.Flexibility
-1.animations can be added/changed with basic unity knowledge
-2.characters can be changed
-3.You can also add your own touches to the enemy and player character 
+1. animations can be added/changed with basic unity knowledge
+2. characters can be changed
+3. You can also add your own touches to the enemy and player character 
 
 # 5.Sound Effects
 1. NCS background music is included
