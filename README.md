@@ -4,7 +4,7 @@ the sound in the video is not of good quality due to reduction in file size.
 # Unity-Combat-System-Ternary-games
 I created this project with Unity(used both playmaker and c#). This contains a RPG project with a Advanced Player Character and enemy ai and also a companinon tiger ai.
 
-# **Download Links**
+# *Download Links*
 Link1:https://mega.nz/file/mRsy2Q6b#R9GN6YKE0z_Nd8fM3WSBtBIzlY5NKheiTAyayy4tM9o  (Mega)Unity 2020.3.14f1
 
 ## Features:
