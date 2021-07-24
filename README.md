@@ -6,7 +6,7 @@ I created this project with Unity(used both playmaker and c#). This contains a R
 
 # Ｄｏｗｎｌｏａｄ Ｌｉｎｋ
 Link1:https://mega.nz/file/mRsy2Q6b#R9GN6YKE0z_Nd8fM3WSBtBIzlY5NKheiTAyayy4tM9o  (Mega)Unity 2020.3.14f1
-
+Link2:https://drive.google.com/file/d/1pJYY445FVoTfh6g4Fm28M3g7B9b9RMNA/view?usp=sharing (GDrive)Unity 2019
 ## Features:
 ###### 1. Player Character
 >basic locomotion(run and walk)
